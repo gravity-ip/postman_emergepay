@@ -13,7 +13,7 @@ Payment integration that’s easy– emergepay provides you with a fast, scalabl
 <br/>
 
 ## Step 1: Install The Postman App
-:exclamation: This collection only work with the installed version of The Postman app.
+:exclamation: This collection only works with the installed version of The Postman app.
 <br/>
 [Download the app](https://www.postman.com/downloads)<br>
 
