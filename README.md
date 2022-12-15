@@ -1,4 +1,4 @@
-# emergepay API postman collection
+# emergepay API - Postman Collection
 Gravity Payments - Payment integration that’s easy– emergepay provides you with a fast, scalable, cloud-based payment solution.
 
 [emergepay developer documenation](https://dev.gravitypayments.com/docs/emergepay/)<br>
