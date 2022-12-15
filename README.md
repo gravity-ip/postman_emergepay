@@ -5,7 +5,7 @@ Payment integration that’s easy– emergepay provides you with a fast, scalabl
 [emergepay demos](https://demo.emergepay.gravitypayments.com/)<br>
 <br/>
 
- # Postman Collection
+ # Get Started
 
 #### Don't have a Postman Account?
 [Create a free Postman Account](https://www.getpostman.com/)
