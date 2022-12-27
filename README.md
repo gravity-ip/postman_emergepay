@@ -13,15 +13,14 @@ Payment integration that’s easy– emergepay provides you with a fast, scalabl
 <br/>
 
 ## Step 1: Install The Postman App
-
-<br/>
-
 [Download the app](https://www.postman.com/downloads)<br>
 
+<br/>
 
 ## Step 2: Review the emergepay API documentation
 [API Reference](https://dev.gravitypayments.com/reference/)
 
+<br/>
 
 ## Step 3: Get the Postman collection
 
